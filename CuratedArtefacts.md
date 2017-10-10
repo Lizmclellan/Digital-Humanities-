@@ -6,7 +6,7 @@
 
 - Collaborative Article, Panel Discussion
 - https://dh2017.adho.org/abstracts/406/406.pdf
-- Permissions: 
+- Permissions: Creative Commons-Attribution 4.0 (CC-BY 4.0)
 - Creator and Affiliation: T.L. Cowan, Jasmine Rault, Dayna McLeod, Carina Guzman
 - Tags: Queer, Digital, Transgender, Feminism, Art, Lesbian, Women, Aesthetics, Politics, Spaces, Collaboration
 
@@ -18,7 +18,7 @@ Annotation: The panel discussion “Queer Infrastructures: Digital Intimacies, S
 
 - Artefact Type: Article
 - Source URL: https://dh2017.adho.org/abstracts/521/521.pdf
-- Permissions: 
+- Permissions: Creative Commons-Attribution 4.0 (CC-BY 4.0)
 - Creator and Affiliation: K.J. Surkan, 
 - Tags: Surgery, Health, Medicine, Women, Bodies, 
 
