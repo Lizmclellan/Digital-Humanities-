@@ -40,3 +40,6 @@ Annotation: Audacity is an online multilingual audio recording and editing softw
 
 Surkan, K.J. “ Sharing Surgical Scars: Social Networks and the Many Gendered Meanings of Mastectomy.” Digital Humanities Conference 2017, 8 Aug. 2017, dh2017.adho.org/abstracts/521/521.pdf.
 
+Cowan, T.L., et al. “ Queer Infrastructures: Digital Intimacies, Spaces, Affordances and Collaboration.” Digital Humanities 2017, 8 Aug. 2017, dh2017.adho.org/abstracts/406/406.pdf.
+
+Audacity, JamesCrook, Martynshaw, Vjohnson, 28 May 2000, sourceforge.net/projects/audacity/.
