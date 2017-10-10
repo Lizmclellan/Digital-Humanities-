@@ -35,3 +35,8 @@ Annotation: The article  “Sharing Surgical Scars: Social Networks and the Many
 - Tags: Audio, Editing, capture, Conversion, Recording, Cleanup, Multilingual
 
 Annotation: Audacity is an online multilingual audio recording and editing software, that runs on an open source platform. It allows anyone to record live audio, or computer feedback, then cut, copy, or splice sounds together. The software also allows the author to change the speed or pitch of the recording. The program was developed by a group of volunteers, and distributed under the GNU General Public Liscence in 2000. The coding language used is C++, making it easily accessible to anyone with basic coding knowledge on this platform. In digital multimedia projects, Audacity offers a platform for manipulating audio data to potentially experiment with the very texture and quality of the sound. 
+
+## Works Cited 
+
+Surkan, K.J. “ Sharing Surgical Scars: Social Networks and the Many Gendered Meanings of Mastectomy.” Digital Humanities Conference 2017, 8 Aug. 2017, dh2017.adho.org/abstracts/521/521.pdf.
+
